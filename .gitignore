@@ -4,25 +4,30 @@
 .cproject
 .project
 
-# Build output
+# Build output folders
 /Debug/
 /Release/
 /build/
+
+# Generated intermediate files
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.cyclo
+*.su
+*.map
+*.lst
+*.log
+*.bak
+*.tmp
+subdir.mk
 
 # OS junk
 .DS_Store
 Thumbs.db
 
-# Compiled objects
-*.o
-*.elf
-*.bin
-*.hex
-
-# Logs and backups
-*.log
-*.bak
-
-# Generated files (optional)
+# STM32CubeIDE generated launch configs
 *.launch
 
