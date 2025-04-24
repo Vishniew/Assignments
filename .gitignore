@@ -1,0 +1,28 @@
+# STM32CubeIDE-specific junk
+.metadata/
+.settings/
+.cproject
+.project
+
+# Build output
+/Debug/
+/Release/
+/build/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Compiled objects
+*.o
+*.elf
+*.bin
+*.hex
+
+# Logs and backups
+*.log
+*.bak
+
+# Generated files (optional)
+*.launch
+
