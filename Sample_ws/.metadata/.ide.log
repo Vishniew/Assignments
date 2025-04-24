@@ -929,3 +929,36 @@
 2025-04-24 11:48:53,827 [INFO] ProjectBuilder:5154 - Time for Generating toolchain IDE Files: 1107mS.
 2025-04-24 11:48:53,828 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 1mS.
 2025-04-24 11:48:53,829 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 0mS.
+2025-04-24 11:52:17,979 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 806996744 Bytes (1073741824)
+2025-04-24 11:52:19,775 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 867814152 Bytes (1073741824)
+2025-04-24 11:52:21,521 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 913951496 Bytes (1073741824)
+2025-04-24 11:52:21,633 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2025-04-24 11:52:21,633 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC
+2025-04-24 11:52:21,633 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2025-04-24 11:52:21,634 [INFO] CodeGenerator:896 - code generatio: config db path: /opt/st/stm32cubeide_1.17.0/plugins/com.st.stm32cube.common.mx_6.13.0.202411220809//db/
+2025-04-24 11:52:21,713 [INFO] CodeEngine:255 - oldGeneratedFile, /home/packetp/Assignments/Sample_ws/V_app/MXTmpFiles/license.tmp_save
+2025-04-24 11:52:21,767 [INFO] CodeEngine:279 - Generated code: /home/packetp/Assignments/Sample_ws/V_app/MXTmpFiles/license.tmp
+2025-04-24 11:52:21,774 [INFO] CodeEngine:255 - oldGeneratedFile, /home/packetp/Assignments/Sample_ws/V_app/MXTmpFiles/gpio.tmp_save
+2025-04-24 11:52:21,838 [INFO] CodeEngine:279 - Generated code: /home/packetp/Assignments/Sample_ws/V_app/MXTmpFiles/gpio.tmp
+2025-04-24 11:52:21,845 [INFO] CodeEngine:255 - oldGeneratedFile, /home/packetp/Assignments/Sample_ws/V_app/MXTmpFiles/cortex.tmp_save
+2025-04-24 11:52:21,896 [INFO] CodeEngine:279 - Generated code: /home/packetp/Assignments/Sample_ws/V_app/MXTmpFiles/cortex.tmp
+2025-04-24 11:52:21,900 [INFO] CodeEngine:255 - oldGeneratedFile, /home/packetp/Assignments/Sample_ws/V_app/Core/Src/stm32f7xx_it.c_save
+2025-04-24 11:52:21,960 [INFO] CodeEngine:279 - Generated code: /home/packetp/Assignments/Sample_ws/V_app/Core/Src/stm32f7xx_it.c
+2025-04-24 11:52:21,962 [INFO] CodeEngine:255 - oldGeneratedFile, /home/packetp/Assignments/Sample_ws/V_app/Core/Inc/stm32f7xx_it.h_save
+2025-04-24 11:52:22,013 [INFO] CodeEngine:279 - Generated code: /home/packetp/Assignments/Sample_ws/V_app/Core/Inc/stm32f7xx_it.h
+2025-04-24 11:52:22,021 [INFO] CodeEngine:255 - oldGeneratedFile, /home/packetp/Assignments/Sample_ws/V_app/Core/Src/stm32f7xx_hal_msp.c_save
+2025-04-24 11:52:22,096 [INFO] CodeEngine:279 - Generated code: /home/packetp/Assignments/Sample_ws/V_app/Core/Src/stm32f7xx_hal_msp.c
+2025-04-24 11:52:22,097 [INFO] CodeEngine:255 - oldGeneratedFile, /home/packetp/Assignments/Sample_ws/V_app/MXTmpFiles/system.tmp_save
+2025-04-24 11:52:22,145 [INFO] CodeEngine:279 - Generated code: /home/packetp/Assignments/Sample_ws/V_app/MXTmpFiles/system.tmp
+2025-04-24 11:52:22,149 [INFO] CodeEngine:311 - oldGeneratedFile, /home/packetp/Assignments/Sample_ws/V_app/Core/Inc/stm32f7xx_hal_conf.h_save
+2025-04-24 11:52:22,205 [INFO] CodeEngine:335 - Generated code: /home/packetp/Assignments/Sample_ws/V_app/Core/Inc/stm32f7xx_hal_conf.h
+2025-04-24 11:52:22,215 [INFO] CodeEngine:255 - oldGeneratedFile, /home/packetp/Assignments/Sample_ws/V_app/Core/Inc/main.h_save
+2025-04-24 11:52:22,269 [INFO] CodeEngine:279 - Generated code: /home/packetp/Assignments/Sample_ws/V_app/Core/Inc/main.h
+2025-04-24 11:52:22,270 [INFO] CodeEngine:255 - oldGeneratedFile, /home/packetp/Assignments/Sample_ws/V_app/Core/Src/main.c_save
+2025-04-24 11:52:22,346 [INFO] CodeEngine:279 - Generated code: /home/packetp/Assignments/Sample_ws/V_app/Core/Src/main.c
+2025-04-24 11:52:22,541 [INFO] ProjectBuilder:3289 - Time for Copy HAL[1] : 23mS.
+2025-04-24 11:52:22,543 [INFO] ProjectBuilder:4876 - Project Generator version: 4.5.0-RC5
+2025-04-24 11:52:22,623 [INFO] ConfigFileManager:1579 - The Die is : DIE449
+2025-04-24 11:52:23,219 [INFO] ProjectBuilder:5154 - Time for Generating toolchain IDE Files: 676mS.
+2025-04-24 11:52:23,220 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 1mS.
+2025-04-24 11:52:23,220 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 0mS.
